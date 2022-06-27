@@ -15,7 +15,7 @@ import { Component, Input } from '@angular/core';
     </mat-expansion-panel-header>
     <ol>
     <li>
-    Primeiramente, dê fork nesse projeto para sua conta github.
+    Primeiramente, dê fork nesse projeto para sua conta git hub.
   </li>
     <li>
       Veja a estrutura dos arquivos e utilize os arquivos da pasta app.
