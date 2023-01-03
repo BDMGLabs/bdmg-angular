@@ -12,4 +12,4 @@ Para começar leia atentamente as instruções a seguir:
 - Utilize o Angular Material para facilitar o desenvolvimento: https://material.angular.io/
 - Caso necessite, guie-se pela documentação do Angular: https://angular.io/
 
-Dúvidas? Entre em contato com klauber.lage@montreal.com.br
+Dúvidas? Entre em contato comigo: https://www.linkedin.com/in/klauber-freitas/

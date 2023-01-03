@@ -37,7 +37,7 @@ import { Component, Input } from '@angular/core';
   
   </ol>
   
-  <div>Dúvidas? Entre em contato com klauber.lage@montreal.com.br</div>
+  <div>Dúvidas? Entre em contato comigo https://www.linkedin.com/in/klauber-freitas/ </div>
 
   </mat-expansion-panel>
 </mat-accordion>
