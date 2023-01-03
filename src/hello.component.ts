@@ -18,16 +18,18 @@ import { Component, Input } from '@angular/core';
     Primeiramente, dê fork nesse projeto para sua conta git hub.
   </li>
     <li>
-      Veja a estrutura dos arquivos e utilize os arquivos da pasta app.
+      Veja a estrutura de pastas e utilize os arquivos da pasta app.
     </li>
     <li>
-      Seguindo o padrão MVC, faça a requisição GET da API:
+      Seguindo o padrão MVCS, faça a requisição GET da API:
       https://viacep.com.br/ws/30160907/json/
     </li>
     <li>
       Com o dado objeto, construa um formulário em que todos os campos possam ser
-      editados, exceto: ibge e siafi.
+      editados, exceto: 'ibge' e 'siafi'.
     </li>
+    <li>Encontre uma solução de máscara para o campo 'cep', seguindo o padrão 00000-000;</li>
+    <li>Encontre uma solução de máscara para o campo 'complemento', seguindo o padrão de milhar: 0.000;</li>
     <li>Construa o método/função que salve as alterações no localstorage;</li>
     <li>Utilize o Angular Material para facilitar o desenvolvimento: https://material.angular.io/</li>
     <li>Caso necessite, guie-se pela documentação do Angular: https://angular.io/</li>
