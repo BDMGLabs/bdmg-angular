@@ -33,12 +33,7 @@ import { Component, Input } from '@angular/core';
     <li>Construa o método/função que salve as alterações no localstorage;</li>
     <li>Utilize o Angular Material para facilitar o desenvolvimento: https://material.angular.io/</li>
     <li>Caso necessite, guie-se pela documentação do Angular: https://angular.io/</li>
-
-  
   </ol>
-  
-  <div>Dúvidas? Entre em contato comigo https://www.linkedin.com/in/klauber-freitas/ </div>
-
   </mat-expansion-panel>
 </mat-accordion>
 `,
